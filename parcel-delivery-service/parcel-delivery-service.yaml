@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/authentication-server
+    url: jdbc:postgresql://localhost:5432/parcel-delivery-service
     username: admin
     password: asd123
     driverClassName: org.postgresql.Driver
